@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Hotels>
+  <Hotel>
+    <Name>Invalid Hotel 1</Name>
+    <Phone>480-999-9901</Phone>
+    <Phone>800-888-8801</Phone>
+    <Address>
+      <Number>201</Number>
+      <Street>1 Error St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>86201</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Invalid Hotel 2</Name>
+    <Phone>480-999-9902</Phone>
+    <Phone>800-888-8802</Phone>
+    <Address>
+      <Number>202</Number>
+      <Street>2 Error St</Street>
+      <City>Phoenix</City>
+      <State></State>
+      <Zip>86202</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Invalid Hotel 3</Name>
+    <Phone>480-999-9903</Phone>
+    <Address>
+      <Number>203</Number>
+      <Street>3 Error St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>86203</Zip>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Invalid Hotel 4</Name>
+    <Phone>480-999-9904</Phone>
+    <Phone>800-888-8804</Phone>
+    <Address>
+      <Number>204</Number>
+      <Street>4 Error St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+    </Address>
+  </Hotel>
+  <Hotel>
+    <Name>Invalid Hotel 5</Name>
+    <Phone>480-999-9905</Phone>
+    <Phone>800-888-8805</Phone>
+    <Address>
+      <Number>205</Number>
+      <Street>5 Error St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>86205</Zip>
+    </Address>
+  </Hotel>
+</Hotels>
