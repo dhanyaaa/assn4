@@ -1,123 +1,21 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-  <Hotel Rating="4.0">
-    <Name>Hotel 1</Name>
-    <Phone>480-100-1001</Phone>
-    <Phone>800-200-2001</Phone>
-    <Address NearestAirport="Mesa Gateway">
-      <Number>101</Number>
-      <Street>1th Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85101</Zip>
-    </Address>
+  <Hotel>
+    <Name>Sunrise Resort</Name>
+    <Location>Miami, FL</Location>
+    <Rating>4</Rating>
+    <Price>150.00</Price>
   </Hotel>
-  <Hotel Rating="4.5">
-    <Name>Hotel 2</Name>
-    <Phone>480-100-1002</Phone>
-    <Phone>800-200-2002</Phone>
-    <Address NearestAirport="Sky Harbor">
-      <Number>102</Number>
-      <Street>2th Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85102</Zip>
-    </Address>
+  <Hotel>
+    <Name>Mountain View Inn</Name>
+    <Location>Denver, CO</Location>
+    <Rating>5</Rating>
+    <Price>210.00</Price>
   </Hotel>
-  <Hotel Rating="3.5">
-    <Name>Hotel 3</Name>
-    <Phone>480-100-1003</Phone>
-    <Phone>800-200-2003</Phone>
-    <Address NearestAirport="Mesa Gateway">
-      <Number>103</Number>
-      <Street>3th Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85103</Zip>
-    </Address>
-  </Hotel>
-  <Hotel Rating="4.0">
-    <Name>Hotel 4</Name>
-    <Phone>480-100-1004</Phone>
-    <Phone>800-200-2004</Phone>
-    <Address NearestAirport="Sky Harbor">
-      <Number>104</Number>
-      <Street>4th Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85104</Zip>
-    </Address>
-  </Hotel>
-  <Hotel Rating="4.5">
-    <Name>Hotel 5</Name>
-    <Phone>480-100-1005</Phone>
-    <Phone>800-200-2005</Phone>
-    <Address NearestAirport="Mesa Gateway">
-      <Number>105</Number>
-      <Street>5th Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85105</Zip>
-    </Address>
-  </Hotel>
-  <Hotel Rating="3.5">
-    <Name>Hotel 6</Name>
-    <Phone>480-100-1006</Phone>
-    <Phone>800-200-2006</Phone>
-    <Address NearestAirport="Sky Harbor">
-      <Number>106</Number>
-      <Street>6th Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85106</Zip>
-    </Address>
-  </Hotel>
-  <Hotel Rating="4.0">
-    <Name>Hotel 7</Name>
-    <Phone>480-100-1007</Phone>
-    <Phone>800-200-2007</Phone>
-    <Address NearestAirport="Mesa Gateway">
-      <Number>107</Number>
-      <Street>7th Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85107</Zip>
-    </Address>
-  </Hotel>
-  <Hotel Rating="4.5">
-    <Name>Hotel 8</Name>
-    <Phone>480-100-1008</Phone>
-    <Phone>800-200-2008</Phone>
-    <Address NearestAirport="Sky Harbor">
-      <Number>108</Number>
-      <Street>8th Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85108</Zip>
-    </Address>
-  </Hotel>
-  <Hotel Rating="3.5">
-    <Name>Hotel 9</Name>
-    <Phone>480-100-1009</Phone>
-    <Phone>800-200-2009</Phone>
-    <Address NearestAirport="Mesa Gateway">
-      <Number>109</Number>
-      <Street>9th Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85109</Zip>
-    </Address>
-  </Hotel>
-  <Hotel Rating="4.0">
-    <Name>Hotel 10</Name>
-    <Phone>480-100-1010</Phone>
-    <Phone>800-200-2010</Phone>
-    <Address NearestAirport="Sky Harbor">
-      <Number>110</Number>
-      <Street>10th Ave</Street>
-      <City>Tempe</City>
-      <State>AZ</State>
-      <Zip>85110</Zip>
-    </Address>
+  <Hotel>
+    <Name>Ocean Breeze</Name>
+    <Location>San Diego, CA</Location>
+    <Rating>3</Rating>
+    <Price>120.00</Price>
   </Hotel>
 </Hotels>
